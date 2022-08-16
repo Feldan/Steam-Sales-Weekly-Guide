@@ -287,32 +287,33 @@
 11:28 第1 V Rising [血族崛起] 70rmb
 13:26 每周游戏 Resident Evil 4 Remake [生化危机4重置版]
 
-简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》
-00:00-00:49 片头
-00:50   <手机> 特约播出
-01:36 第7 20 MinutesTilDawn [黎明前20分钟] 15rmb
-03:00 第6 Cyberpunk 2077 [赛博朋克 2077] 149rmb(-50%)
-04:24 第5 Stray [迷失] 85.5rmb(-10%) 
-05:42 第4 The Quarry [采石场惊魂] 199rmb
-06:57 第3 ELDEN RING [艾尔登法环] 298rmb
-08:59 第2 Call of Duty: Modern Warfare II [使命召唤:现代战争II 2022] 446rmb(预售)
-10:27 第1 V Rising [血族崛起] 70rmb
-12:06 每周游戏 The Callisto Protocol [木卫四协议] ￥383(预售)
+## 7.4  
+简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》  
+00:00-00:49 片头  
+00:50   <手机> 特约播出  
+01:36 第7 20 MinutesTilDawn [黎明前20分钟] 15rmb  
+03:00 第6 Cyberpunk 2077 [赛博朋克 2077] 149rmb(-50%)  
+04:24 第5 Stray [迷失] 85.5rmb(-10%)   
+05:42 第4 The Quarry [采石场惊魂] 199rmb   
+06:57 第3 ELDEN RING [艾尔登法环] 298rmb   
+08:59 第2 Call of Duty: Modern Warfare II [使命召唤:现代战争II 2022] 446rmb(预售)   
+10:27 第1 V Rising [血族崛起] 70rmb   
+12:06 每周游戏 The Callisto Protocol [木卫四协议] ￥383(预售)  
 
-
-简介：片头BGM：Breaking Me Down - SOiL 
-00:00-01:07 片头
-01:10   “su-反-委-员-会” 特约播出
-02:23 第9 Starship Troopers: Terran Command [星河战队:人类指挥部] 90rmb
-03:41 第8 The Quarry [采石场惊-魂] 199rmb
-05:48 第7 V Rising [血-族崛起] 70rmb
-07:26 第6 ELDEN RING [艾尔登法环] 298rmb
-08:38 第5 MONSTER HUNTER RISE: SUNBREAK [怪物猎人-崛起:曙光] 243rmb(预售)
-10:02 第4 Teenage Mutant Ninja Turtles: Shredder's Revenge [忍者神龟:施莱德的-复-仇] 68.4rmb(-10%)
-11:22 第3 MONSTER HUNTER RISE [怪物猎人崛起] 151.98rmb(- 49%)
-12:36 第2 Chivalry 2 [骑土精神2] 69.6(-40%)rmb
-13:53 第1 FINAL FANTASY VII REMAKE INTERGRADE [最终幻想7-重制版] 316.66(-29%)rm
-每周XGP ( ﾟ∀。) Hollow Knight: Silksong [空洞骑士:丝之歌] 类型:动作官中:V平台:Windows(XGP)发行日期:12个月内
+## 7.11   
+简介：片头BGM：Breaking Me Down - SOiL   
+00:00-01:07 片头  
+01:10   “su-反-委-员-会” 特约播出  
+02:23 第9 Starship Troopers: Terran Command [星河战队:人类指挥部] 90rmb  
+03:41 第8 The Quarry [采石场惊-魂] 199rmb  
+05:48 第7 V Rising [血-族崛起] 70rmb  
+07:26 第6 ELDEN RING [艾尔登法环] 298rmb  
+08:38 第5 MONSTER HUNTER RISE: SUNBREAK [怪物猎人-崛起:曙光] 243rmb(预售)  
+10:02 第4 Teenage Mutant Ninja Turtles: Shredder's Revenge [忍者神龟:施莱德的-复-仇] 68.4rmb(-10%)  
+11:22 第3 MONSTER HUNTER RISE [怪物猎人崛起] 151.98rmb(- 49%)  
+12:36 第2 Chivalry 2 [骑土精神2] 69.6(-40%)rmb  
+13:53 第1 FINAL FANTASY VII REMAKE INTERGRADE [最终幻想7-重制版] 316.66(-29%)rm  
+每周XGP ( ﾟ∀。) Hollow Knight: Silksong [空洞骑士:丝之歌] 类型:动作官中:V平台:Windows(XGP)发行日期:12个月内  
 
 简介：片头BGM：Breaking Me Down - SOiL 
 00:00-01:07 片头
@@ -320,51 +321,54 @@
 02:12 第8 ELDEN RING [艾尔登法环] 298rmb
 
 
+## 7.18
+简介：片头BGM：Breaking Me Down - SOiL   
+00:00-01:07 片头  
+01:10  "冰棍刺客 " 特约播出   
+02:12 第8 FINAL FANTASY VII REMAKE INTERGRADE [最终幻想7-重制版] 316.66(-29%)rmb  
+03:55 第7 It Takes Two [双人成行] 79.2(60%)rmb  
+05:15 第6 Rust [腐蚀] 80.5(-50%)rmb  
+06:26 第5 Tiny Tina's Wonderlands[小缇娜的奇幻之地] 159.2(-20%)rmb  
+07:38 第4 F1 22 [一级方程式22] 248rmb  
+09:01 第3 DNF Duel [地下城与勇士:决斗] 49.99刀(锁区)  
+10:33 第2 Raft [木筏] 57.8( -15%)rmb  
+11:42 第1 MONSTER HUNTER RISE: SUNBREAK [怪物猎人崛起:曙光] 243rmb  
+13:34 每周游戏 Little Nightmares [小小梦魇2] 74(- 50%)rmb  
+14:52 Outer Wilds - Archaeologist Edition [星际拓荒-考古学家版] 78.2(- 41%)rmb  
+16:15 ENDER LILIES: Quietus of the Knights [终末的莉莉丝:骑士们的救赎] 68.3(-30%)rmb   
 
-简介：片头BGM：Breaking Me Down - SOiL 
-00:00-01:07 片头
-01:10  "冰棍刺客 " 特约播出
-02:12 第8 FINAL FANTASY VII REMAKE INTERGRADE [最终幻想7-重制版] 316.66(-29%)rmb
-03:55 第7 It Takes Two [双人成行] 79.2(60%)rmb
-05:15 第6 Rust [腐蚀] 80.5(-50%)rmb
-06:26 第5 Tiny Tina's Wonderlands[小缇娜的奇幻之地] 159.2(-20%)rmb
-07:38 第4 F1 22 [一级方程式22] 248rmb
-09:01 第3 DNF Duel [地下城与勇士:决斗] 49.99刀(锁区)
-10:33 第2 Raft [木筏] 57.8( -15%)rmb
-11:42 第1 MONSTER HUNTER RISE: SUNBREAK [怪物猎人崛起:曙光] 243rmb
-13:34 每周游戏 Little Nightmares [小小梦魇2] 74(- 50%)rmb
-14:52 Outer Wilds - Archaeologist Edition [星际拓荒-考古学家版] 78.2(- 41%)rmb
-16:15 ENDER LILIES: Quietus of the Knights [终末的莉莉丝:骑士们的救赎] 68.3(-30%)rmb
+## 7.25
+简介：片头BGM：Breaking Me Down - SOiL   
+00:00-01:07 片头  
+01:10  "骄傲旗" 特约播出  
+02:12 第5 ELDEN RING [艾尔登法环] 298rmb  
+03:24 第4 Ready or Not [严阵以待] 125rmb  
+05:10 第3 F1 22 [一级方程式22] 248rmb  
+06:31 第2 MONSTER HUNTER RISE: SUNBREAK [怪物猎人崛起:曙光] 243rmb  
+08:26 第1 Raft [木筏] 68rmb   
+10:01 本月前瞻  
+10:05 Stray [迷失] 85.5(-10%)rmb  
+11:24 As Dusk Falls [黄昏降临时] 89rmb  
+12:49 NOBUNAGA'S AMBITION: Shinsei [信长之野望●新生] 349rmb  
 
-简介：片头BGM：Breaking Me Down - SOiL 
-00:00-01:07 片头
-01:10  "骄傲旗" 特约播出
-02:12 第5 ELDEN RING [艾尔登法环] 298rmb
-03:24 第4 Ready or Not [严阵以待] 125rmb
-05:10 第3 F1 22 [一级方程式22] 248rmb
-06:31 第2 MONSTER HUNTER RISE: SUNBREAK [怪物猎人崛起:曙光] 243rmb
-08:26 第1 Raft [木筏] 68rmb 
-10:01 本月前瞻
-10:05 Stray [迷失] 85.5(-10%)rmb
-11:24 As Dusk Falls [黄昏降临时] 89rmb
-12:49 NOBUNAGA'S AMBITION: Shinsei [信长之野望●新生] 349rmb
+# 8.1
+片头BGM：平田志穂子 - Shadow World（女神异闻录4黄金版OP）   
+00:00-01:28 片头  
+01:29 本节目由《良药》特约播出  
+02:11 第8 Hades [黑帝斯] 48rmb (-40%)  
+03:40 第7 Raft [木筏] 68rmb   
+04:51 第6 Red Dead Redemption 2 [荒野大镖客:救赎2] 124.5rmb   
+06:05 第5 ELDEN RING [艾尔登法环] 298rmb  
+06:40 第4 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379(预售)rmb  
+07:58 第3 No Man's Sky [无人深空] 78(-50%)rmb  
+09:44 第2 Digimon Survive [数码宝贝绝境求生] 298rmb  
+11:01 第1 Stray [迷失] 95rmb  
+12:50 本月前瞻  
+Two Point Campus [双点校园] 228rmb  
+14:00 SD GUNDAM BATTLE ALLIANCE [SD高达激斗同盟] 348rmb  
+15:17 Call of the Wild: The Angler [荒野的召唤:垂钓者]  
 
-片头BGM：平田志穂子 - Shadow World（女神异闻录4黄金版OP）
-00:00-01:28 片头
-01:29 本节目由《良药》特约播出
-02:11 第8 Hades [黑帝斯] 48rmb(-40%)
-03:40 第7 Raft [木筏] 68rmb
-04:51 第6 Red Dead Redemption 2 [荒野大镖客:救赎2] 124.5rmb
-06:05 第5 ELDEN RING [艾尔登法环] 298rmb
-06:40 第4 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379(预售)rmb
-07:58 第3 No Man's Sky [无人深空] 78(-50%)rmb
-09:44 第2 Digimon Survive [数码宝贝绝境求生] 298rmb
-11:01 第1 Stray [迷失] 95rmb
-12:50 本月前瞻
-Two Point Campus [双点校园] 228rmb
-14:00 SD GUNDAM BATTLE ALLIANCE [SD高达激斗同盟] 348rmb
-15:17 Call of the Wild: The Angler [荒野的召唤:垂钓者]
-
+## 8.8
 片头BGM：平田志穂子 - Shadow World（女神异闻录4黄金版OP）  
 00:00-01:28 片头  
 01:29 本节目由《如虎添翼》特约播出特约播出  
@@ -378,7 +382,7 @@ Two Point Campus [双点校园] 228rmb
 12:31 每周游戏  
 Hooked on You; A Dead by Daylight Dating Sim [心醉魂迷:浪漫世界恋爱模拟] 41rmb90%  
 
-
+## 8.15
 片头BGM：平田志穂子 - Shadow World（女神异闻录4黄金版OP）  
 00:00-01:28 片头   
 01:29 本节目由《日程小帮手》特约播出特约播出  
