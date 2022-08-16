@@ -1,23 +1,22 @@
 # steamTimeAxis
-00:00~01:10 音药
-01:10   玫瑰少女特约播出（乳发）
-本期不够十个游戏
-02:03   第9 Red Dead Redemption 2【荒野大镖客:救赎2】124.5rmb
-02:56   第8 Project Zomboid 【僵尸计划】32.16rmb
-04:05   第7 Sekiro™: Shadows Die Twice - GOTY Edition 【只狼:影逝二度-年度版 134rmb  (小心！！！讲的是老头环！！！)
-05:52   第6 Battlefield 2042 【战地风云 2042】163.68rmb 
-07:15   第5 Forza Horizon 5 【极限竞速:地平线5】223.2rmb
-08:40   第4 Halo Infinite（Campaign）【光环 无限（战役）】248rmb
-10:09   第3 It Takes Two 【双人成行】99rmb史地
-11:14   第2 Five Nights at Freddy's: Security Breach 【玩具熊的午夜后宫:安全漏洞】
-11:27   第1 Ready or Not 【严阵以待】(私货:好玩！适合喜欢硬核CQB。比r6爽)
+00:00~01:10 音药  
+01:10   玫瑰少女特约播出（乳发）  
+本期不够十个游戏  
+02:03   第9 Red Dead Redemption 2【荒野大镖客:救赎2】124.5rmb  
+02:56   第8 Project Zomboid 【僵尸计划】32.16rmb  
+04:05   第7 Sekiro™: Shadows Die Twice - GOTY Edition 【只狼:影逝二度-年度版   134rmb  (小心！！！讲的是老头环！！！)  
+05:52   第6 Battlefield 2042 【战地风云 2042】163.68rmb   
+07:15   第5 Forza Horizon 5 【极限竞速:地平线5】223.2rmb  
+08:40   第4 Halo Infinite（Campaign）【光环 无限（战役）】248rmb  
+10:09   第3 It Takes Two 【双人成行】99rmb史地  
+11:14   第2 Five Nights at Freddy's: Security Breach 【玩具熊的午夜后宫:安全漏洞】   
+11:27   第1 Ready or Not 【严阵以待】(私货:好玩！适合喜欢硬核CQB。比r6爽)  
+13:05   每周游戏  
+13:12   Cyberpunk 2077 【赛博朋克 2077】149rmb  
+14:50   年度片尾。来自@术爸Treedad   混剪单投:ac32792503   
 
-13:05   每周游戏
-13:12   Cyberpunk 2077 【赛博朋克 2077】149rmb
-14:50   年度片尾。来自@术爸Treedad   混剪单投:ac32792503
 
-
-我要老头环！！！
+我要老头环！！！  
 00:00-00:45   前摇 
 00:45   Forza Horizon 5 【极限竞速:地平线5】 223.20rmb
 02:00   Age of Empires 【帝国时代4】 223.2rmb
@@ -136,7 +135,7 @@
 首先恰个柠檬！！！
 你们一定要幸福啊
 00:00-00:57 片头
-00:57   求神特约播出
+00:57   求神特约播出    
 本期7个游戏  
 02:11   第7 WWE 2k22 【世界摔角娱乐2K22】 199rmb
 03:44   第6 Dying Light 2Stay Human 【消逝的光芒2:人与仁之战】 299rmb
@@ -366,15 +365,28 @@ Two Point Campus [双点校园] 228rmb
 14:00 SD GUNDAM BATTLE ALLIANCE [SD高达激斗同盟] 348rmb
 15:17 Call of the Wild: The Angler [荒野的召唤:垂钓者]
 
-片头BGM：平田志穂子 - Shadow World（女神异闻录4黄金版OP）
-00:00-01:28 片头
-01:29 本节目由《如虎添翼》特约播出特约播出
-02:41 Project Zomboid [僵尸计划] 49rmb(- 30%)
-04:04 ELDEN RING [艾尔登法环] 298rmb
-05:25 The Forest [森林] 17.5rmb(-75%)
-06:55 Raft [木筏] 57.8rmb(-15%)
-07:23 Rust [腐蚀] 80.5rmb(-50%)
-09:24 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379(预售)rmb
+片头BGM：平田志穂子 - Shadow World（女神异闻录4黄金版OP）  
+00:00-01:28 片头  
+01:29 本节目由《如虎添翼》特约播出特约播出  
+02:41 Project Zomboid [僵尸计划] 49rmb(- 30%)  
+04:04 ELDEN RING [艾尔登法环] 298rmb  
+05:25 The Forest [森林] 17.5rmb(-75%)  
+06:55 Raft [木筏] 57.8rmb(-15%)  
+07:23 Rust [腐蚀] 80.5rmb(-50%)  
+09:24 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379(预售)rmb  
 10:59 Stray [迷失] 95rmb
-12:31 每周游戏
-Hooked on You; A Dead by Daylight Dating Sim [心醉魂迷:浪漫世界恋爱模拟] 41rmb90%
+12:31 每周游戏  
+Hooked on You; A Dead by Daylight Dating Sim [心醉魂迷:浪漫世界恋爱模拟] 41rmb90%  
+
+
+片头BGM：平田志穂子 - Shadow World（女神异闻录4黄金版OP）  
+00:00-01:28 片头   
+01:29 本节目由《日程小帮手》特约播出特约播出  
+2:52 ELDEN RING [艾尔登法环] 298rmb  
+04:21 Stray [迷失] 95rmb  
+05:49 Two Point Campus [双点校园] 228rmb  
+07:20 Farthest Frontier [最远的边陲] 90rmb  
+09:14 Cult of the Lamb [咩咩启示录] 118rmb  
+10:47 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379(预售)rmb  
+12:30 每周游戏   
+Evolve Stage 2 [进化 第二阶段] 售价:N/A 评价:64%(褒贬不一)   
