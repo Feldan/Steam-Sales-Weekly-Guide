@@ -386,11 +386,29 @@ Hooked on You; A Dead by Daylight Dating Sim [心醉魂迷:浪漫世界恋爱模
 片头BGM：平田志穂子 - Shadow World（女神异闻录4黄金版OP）  
 00:00-01:28 片头   
 01:29 本节目由《日程小帮手》特约播出特约播出  
-2:52 ELDEN RING [艾尔登法环] 298rmb  
+02:52 ELDEN RING [艾尔登法环] 298rmb  
 04:21 Stray [迷失] 95rmb  
 05:49 Two Point Campus [双点校园] 228rmb  
 07:20 Farthest Frontier [最远的边陲] 90rmb  
 09:14 Cult of the Lamb [咩咩启示录] 118rmb  
 10:47 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379(预售)rmb  
 12:30 每周游戏   
-Evolve Stage 2 [进化 第二阶段] 售价:N/A 评价:64%(褒贬不一)   
+Evolve Stage 2 [进化 第二阶段] 售价:N/A 评价:64%(褒贬不一) 
+
+## 8.22
+片头BGM：Riviera Maya – Le Gang  
+00:00-00:58 片头   
+00:59 本节目由《小环书》特约播出特约播出  
+02:07 第9 NARAKA: BLADEPOINT [永劫无间] 49rmb(-50%)
+03:29 第8 CS:GO Prime Status Upgrade 【反恐精英优先状态升级】 96rmb
+05:00 第7 Ready or Not [严阵以待] 125rmb
+06:30 第6 ELDEN RING [艾尔登法环] 298rmb 
+07:33 第5 FIFA23 248rmb(预售)
+08:55 第4 Stray [迷失] 95rmb 
+10:08 第3 Farthest Frontier [最远的边陲] 90rmb
+11:38 第2 Cult of the Lamb [咩咩启示录] 118rmb  
+13:06 第1 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379rmb  
+14:58 每周游戏
+181/342
+162/162
+Thymesia [记忆边境] 80.1(-10%)rmb
