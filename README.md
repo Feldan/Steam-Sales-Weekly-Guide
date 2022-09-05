@@ -391,7 +391,7 @@ Hooked on You; A Dead by Daylight Dating Sim [心醉魂迷:浪漫世界恋爱模
 05:49 Two Point Campus [双点校园] 228rmb  
 07:20 Farthest Frontier [最远的边陲] 90rmb  
 09:14 Cult of the Lamb [咩咩启示录] 118rmb  
-10:47 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379(预售)rmb  
+10:47 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379rmb(预售)  
 12:30 每周游戏   
 Evolve Stage 2 [进化 第二阶段] 售价:N/A 评价:64%(褒贬不一) 
 
@@ -412,3 +412,24 @@ Evolve Stage 2 [进化 第二阶段] 售价:N/A 评价:64%(褒贬不一)
 181/342
 162/162
 Thymesia [记忆边境] 80.1(-10%)rmb
+
+## 9.5
+片头BGM：Riviera Maya – Le Gang  
+00:00-00:58 片头   
+00:59 本节目由《慈父的凝视》特约播出特约播出  
+本期前十有九个！
+01:53 第9 Victoria 3 [维多利亚3] 218rmb(预售)
+03:20 第8 Red Dead Redemption 2 [荒野大镖客:救赎2] 124.5rmb(-50%) 
+04:44 第7 Hogwarts Legacy [霍格沃茨之遗] 298rmb(预售)
+06:13 第6 Titanfall 2 [泰坦陨落2] 25.28(-84%)
+07:37 第5 Cult of the Lamb [咩咩启示录] 118rmb  
+08:29 第4 Sekiro™: Shadows Die Twice - GOTY Edition [只狼:影逝二度-年度版] 134rmb(-50%)
+10:12 第3 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379rmb  
+11:31 第2 F1 Manager 2022 [F1车队经理2022] 198rmb
+12:50 第1 Destiny 2: Lightfall + Annual Pass [命运2:光陨之秋+年票] 298rmb(预售)
+14:59 本月前瞻 The Ramen Sensei [开罗拉面店] 38rmb
+16:44 Steelrising [钢之崛起] 138rmb
+
+
+
+
