@@ -261,6 +261,7 @@
 10:22   第1 V Rising [血族崛起] 70rmb
 12:37   每周游戏 Little Witch in the Woods [林中小女巫] 45rmb(-10%)
 
+## 5.30 
 简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》
 00:00-00:49 片头
 00:50   会员升级 特约播出
@@ -274,6 +275,7 @@
 12:10   第1 V Rising [血族崛起] 70rmb
 13:59   每周游戏 Horizon Zero Dawn Complete Edition [地平线:零之:曙光完全版] 139.5( 50%)rmb
 
+## 6.6
 简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》
 00:00-00:49 片头
 00:50 永久独占 特约播出
@@ -287,7 +289,7 @@
 11:28 第1 V Rising [血族崛起] 70rmb
 13:26 每周游戏 Resident Evil 4 Remake [生化危机4重置版]
 
-## 7.4  
+## 6.13
 简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》  
 00:00-00:49 片头  
 00:50   <手机> 特约播出  
@@ -427,6 +429,28 @@ Thymesia [记忆边境] 80.1(-10%)rmb
 12:50 第1 Destiny 2: Lightfall + Annual Pass [命运2:光陨之秋+年票] 298rmb(预售)   
 14:59 本月前瞻 The Ramen Sensei [开罗拉面店] 38rmb   
 16:44 Steelrising [钢之崛起] 138rmb   
+
+
+## 9.19
+片头BGM：Riviera Maya – Le Gang     
+00:00-00:58 片头      
+00:59 本节目由《AI作图》特约播出特约播出    
+
+## 9.19
+片头BGM：Riviera Maya – Le Gang     
+00:00-00:58 片头      
+00:59 本节目由《AI作图》特约播出特约播出     
+本期前十有九个！  
+01:57 第9 Isonzo [伊松佐河] 81rmb  
+04:18 第8 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379rmb 前三期有介绍，分别在 ac37191731 10:12 ac36772491 13:06   
+04:36 第7 Days Gone [往日不再] 111.6rmb(-60%)  
+04:54 第6 Horizon Zero Dawn Complete Edition [地平线：零之曙光完全版]111.6rmb(-60%) ac35066870 13:59有介绍  
+05:10 第5 Metal: Hellsinger [重金属:地狱歌手] 139rmb   
+06:23 第4 God of War [战神] 223.2rmb(-20%)   
+08:06 第3 NBA 2K23 199rmb   
+09:35 第2 Call of Duty: Modern Warfare II [使命召唤:现代战争2] 446rmb(预售)  
+11:00 第1 Cyberpunk 2077 [赛博朋克2077] 149rmb(-50%)
+12:23 每周游戏(动画？) Cyberpunk Edgerunner [赛博朋克:边缘行者] Netflix剧集
 
 
 
