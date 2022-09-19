@@ -430,11 +430,19 @@ Thymesia [记忆边境] 80.1(-10%)rmb
 14:59 本月前瞻 The Ramen Sensei [开罗拉面店] 38rmb   
 16:44 Steelrising [钢之崛起] 138rmb   
 
-
-## 9.19
-片头BGM：Riviera Maya – Le Gang     
-00:00-00:58 片头      
-00:59 本节目由《AI作图》特约播出特约播出    
+## 9.12
+片头BGM：Riviera Maya – Le Gang      
+00:00-00:58 片头       
+00:59 本节目由《待机王之怒》特约播出特约播出   
+本期前十有七个！  
+01:52 第7 ELDEN RING [艾尔登法环] 298rmb  
+03:12 第6 Titanfall 2 [泰坦陨落2] 25.28rmb(-84%)   
+04:39 第5 Disney Dreamlight Valley [迪士尼梦幻星谷] 售HK$129(锁区)  
+05:52 第4 NBA 2K23 199rmb  
+06:56 第3 Marvel' s Spider-Man Remastered [漫威蜘蛛侠复刻版] 379rmb  
+07:55 第2 Red Dead Redemption 2 [荒野大镖客:救赎2] 124.5rmb(-50%)  
+09:32 第1 Forza Horizon 4 [极限竞速:地平线4] 62.04rmb(-67%)
+11:03 每周游戏 Steelrising [钢之崛起] 138rmb
 
 ## 9.19
 片头BGM：Riviera Maya – Le Gang     
