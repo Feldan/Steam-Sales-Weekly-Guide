@@ -460,6 +460,20 @@ Thymesia [记忆边境] 80.1(-10%)rmb
 11:00 第1 Cyberpunk 2077 [赛博朋克2077] 149rmb(-50%)
 12:23 每周游戏(动画？) Cyberpunk Edgerunner [赛博朋克:边缘行者] Netflix剧集
 
+## 2022年9月26日第39期
+片头BGM：Riviera Maya – Le Gang       
+00:00-00:58 片头   
+00:59 本节目由《哥布林洞》特约播出特约播出     
+本期前十有七个！  
+02:05 第7 ELDEN RING [艾尔登法环] 298rmb  
+03:11 第6 Construction Simulator[建筑模拟器] 170rmb  
+04:34 第5 Return to Monkey IslandA[重返猴岛] 108rmb  
+06:07 第4 FIFA23 248rmb(预售)  
+07:43 第3 Slime Rancher 2 [史莱姆农场2] 90rmb  
+09:10 第2 Cyberpunk 2077 [赛博朋克2077] 149rmb(-50%)  
+10:54 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] 446rmb(预售)   
+12:52 每周游戏 太吾绘卷The Scroll Of Taiwu 68rmb
+
 
 
 
