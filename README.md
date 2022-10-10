@@ -476,4 +476,16 @@ Thymesia [记忆边境] 80.1(-10%)rmb
 
 
 
-
+## 2022年10月10日第41期
+片头BGM：AJR - Burn The House Down】
+00:00-00:38 片头  
+00:46 本节目由《人类画师》特约播出特约播出  
+本期前十有七个！  
+01:40 第7 Slime Rancher 2 [史莱姆农场2] 90rmb  
+02:50 第6 Call of Duty: Modern Warfare II [使命召唤:现代战争2] 446rmb(预售)   
+04:16 第5 Grounded [禁闭求生] 119rmb
+05:48 第4 Cyberpunk 2077 [赛博朋克2077] 298rmb
+07:32 第3 Marauders [星际海盗] 130rmb
+09:09 第2 Need for Speed™ Heat [极品飞车:热力追踪] 14.4rmb(-95%)
+10:39 第1 FIFA 23 248rmb
+11:40 每周游戏 WILD HEARTS [狂野之心] 2023.2.17发售
