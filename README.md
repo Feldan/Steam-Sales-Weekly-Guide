@@ -474,37 +474,33 @@ Thymesia [记忆边境] 80.1(-10%)rmb
 10:54 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] 446rmb(预售)   
 12:52 每周游戏 太吾绘卷The Scroll Of Taiwu 68rmb
 
-<<<<<<< HEAD
-## 2022年10月3日第40期
-片头BGM：Riviera Maya – Le Gang       
-00:00-00:58 片头   
-00:59 本节目由《白河豚协会》特约播出特约播出 
-本期前十有八个！
-01:52 第8 Terra Invicta [地球不屈] 134.1rmb(-10%)
-03:23 第7 MONSTER HUNTER RISE [怪物猎人崛起] 149rmb(-50%)
-04:57 第6 Call of Duty: Modern Warfare II [使命召唤:现代战争2] 446rmb(预售)   
-06:31 第5 Slime Rancher 2 [史莱姆农场2] 90rmb  
-07:42 第4 BONELAB [骨骼实验室] 116rmb
-09:04 第3 Cyberpunk 2077 [赛博朋克2077] 249rmb
-10:50 第2 Need for Speed™ Heat [极品飞车:热力追踪] 14.4rmb(-95%)
-11:50 第1 FIFA2 288rmb
-13:30 本月前瞻 scorn [蔑视] 125.1rmb(-10%)
-14:46 A Plague Tale:Requiem [瘟疫传说:安魂曲] 198rmb 
-16:19 Gotham Kninghts [哥谭骑士] 298rmb
-=======
+## 2022年10月3日第40期   
+片头BGM：Riviera Maya – Le Gang        
+00:00-00:58 片头     
+00:59 本节目由《白河豚协会》特约播出特约播出   
+本期前十有八个！  
+01:52 第8 Terra Invicta [地球不屈] 134.1rmb(-10%)  
+03:23 第7 MONSTER HUNTER RISE [怪物猎人崛起] 149rmb(-50%)  
+04:57 第6 Call of Duty: Modern Warfare II [使命召唤:现代战争2] 446rmb(预售)     
+06:31 第5 Slime Rancher 2 [史莱姆农场2] 90rmb    
+07:42 第4 BONELAB [骨骼实验室] 116rmb   
+09:04 第3 Cyberpunk 2077 [赛博朋克2077] 249rmb   
+10:50 第2 Need for Speed™ Heat [极品飞车:热力追踪] 14.4rmb(-95%)  
+11:50 第1 FIFA2 288rmb   
+13:30 本月前瞻 scorn [蔑视] 125.1rmb(-10%)   
+14:46 A Plague Tale:Requiem [瘟疫传说:安魂曲] 198rmb    
+16:19 Gotham Kninghts [哥谭骑士] 298rmb   
 
-
-## 2022年10月10日第41期
-片头BGM：AJR - Burn The House Down】
-00:00-00:38 片头  
-00:46 本节目由《人类画师》特约播出特约播出  
-本期前十有七个！  
-01:40 第7 Slime Rancher 2 [史莱姆农场2] 90rmb  
-02:50 第6 Call of Duty: Modern Warfare II [使命召唤:现代战争2] 446rmb(预售)   
-04:16 第5 Grounded [禁闭求生] 119rmb
-05:48 第4 Cyberpunk 2077 [赛博朋克2077] 298rmb
-07:32 第3 Marauders [星际海盗] 130rmb
-09:09 第2 Need for Speed™ Heat [极品飞车:热力追踪] 14.4rmb(-95%)
-10:39 第1 FIFA 23 248rmb
-11:40 每周游戏 WILD HEARTS [狂野之心] 2023.2.17发售
->>>>>>> b9dd98db033c78ae0c95927704652c2fe406bcb8
+## 2022年10月10日第41期  
+片头BGM：AJR - Burn The House Down】  
+00:00-00:38 片头    
+00:46 本节目由《人类画师》特约播出特约播出    
+本期前十有七个！    
+01:40 第7 Slime Rancher 2 [史莱姆农场2] 90rmb    
+02:50 第6 Call of Duty: Modern Warfare II [使命召唤:现代战争2] 446rmb(预售)     
+04:16 第5 Grounded [禁闭求生] 119rmb  
+05:48 第4 Cyberpunk 2077 [赛博朋克2077] 298rmb  
+07:32 第3 Marauders [星际海盗] 130rmb   
+09:09 第2 Need for Speed™ Heat [极品飞车:热力追踪] 14.4rmb(-95%)   
+10:39 第1 FIFA 23 248rmb   
+11:40 每周游戏 WILD HEARTS [狂野之心] 2023.2.17发售   
