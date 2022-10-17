@@ -489,3 +489,18 @@ Thymesia [记忆边境] 80.1(-10%)rmb
 09:09 第2 Need for Speed™ Heat [极品飞车:热力追踪] 14.4rmb(-95%)
 10:39 第1 FIFA 23 248rmb
 11:40 每周游戏 WILD HEARTS [狂野之心] 2023.2.17发售
+
+## 2022年10月17日第42期
+片头BGM：AJR - Burn The House Down  
+00:00-00:38 片头  
+00:39 本节目由《高潜用户》特约播出特约播出   
+本期前十有八个！  
+01:50 第8 Forza Horizon 5 [极限竞速:地平线5] ￥173.6(-60%)   
+03:00 第7 Metro Exodus [地铁:离去] ￥44.7(-70%)  
+04:17 第6 Scorn [蔑视] ￥125.1(-10%)  
+06:10 第5 Coral Island [珊瑚岛] ￥108  
+07:39 第4 Stray [迷失] ￥76rmb(-20%)
+08:31 第3 Cyberpunk 2077 [赛博朋克 2077] ￥298 
+09:24 第2 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446(预售)
+10:27 第1 FIFA 23 ￥248
+12:01 每周游戏 ASTLIBRA Revision [神之天平] ￥72(-10%)
