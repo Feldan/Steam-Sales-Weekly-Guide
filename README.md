@@ -508,7 +508,7 @@ Thymesia [记忆边境] 80.1(-10%)rmb
 ## 2022年10月17日第42期
 片头BGM：AJR - Burn The House Down  
 00:00-00:38 片头  
-00:39 本节目由《高潜用户》特约播出特约播出   
+00:39 本节目由《高潜用户》特约播出特约播出   ```
 本期前十有八个！  
 01:50 第8 Forza Horizon 5 [极限竞速:地平线5] ￥173.6(-60%)   
 03:00 第7 Metro Exodus [地铁:离去] ￥44.7(-70%)  
@@ -532,3 +532,22 @@ Thymesia [记忆边境] 80.1(-10%)rmb
 06:26 第2 Persona 5 Royal [女神异闻录5皇家版] ¥329
 07:48 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446(预售)
 09:52 每周游戏 A Plague Tale:Requiem [瘟疫传说:安魂曲] 198rmb   
+
+## 2022年11月7日第44期
+片头BGM：未知
+00:00-00:38 片头  
+00:39 本节目由《小金花》特约播出特约播出   
+本期前十有八个！
+01:28 第8 The Past Within [如影随行] ¥15.6(-40%)
+02:45 第7 Deep Rock Galactic [深岩银河] ¥29.7(-67%)
+03:57 第6 New World [新世界] ¥74.5(-50%)
+05:35 第5 Persona 5 Royal [女神异闻录5皇家版] ¥329
+06:36 第4 Victoria 3 [维多利亚3]¥218
+07:37 第3 Football Manager 2023 [足球经理2023] ¥214.4(-20%)
+08:38 第2 Battlefield 1 [战地1] ¥23.76(-88%)
+10:03 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446
+12:10 本月前瞻  sonic Frontiers [索尼克：未知边境] ¥229
+1319 Warhammer 40,000:Darktide [战锤40k：暗潮]
+
+
+
