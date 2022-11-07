@@ -206,39 +206,39 @@
 10:31   第2 ELDEN RING [老头环] 298 rmb  
 12:23   第1 Steam Deck [steam 掌机] 
 
-简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》
-00:00-00:49 片头
-00:50 球籍管理协会特约播出
-本期9个游戏！！！！
-02:05 第9 Dying Light 2Stay Human [消逝的光芒2：人与仁之战] 239.2 rmb  (-20%)
-03:03 第8 Cyberpunk 2077 [赛博朋克 2077] 149 rmb  (-50%)
-04:52 第7 Rogue Legacy 2 [盗贼遗产2] 64 rmb  (-20%)
-07:00 第6 MONSTER HUNTER RISE [怪物猎人崛起] 198 rmb  (-50%)
-08:36 第5 Sekiro: Shadows Die Twice - GOTY Edition [只狼:影逝:二度-年度版] 268 rmb  
-09:43 第4 The Stanley Parable: Ultra Deluxe [史丹利寓言:超华版] 80 rmb  
+简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》  
+00:00-00:49 片头  
+00:50 球籍管理协会特约播出  
+本期9个游戏！！！！  
+02:05 第9 Dying Light 2Stay Human [消逝的光芒2：人与仁之战] 239.2 rmb  (-20%)  
+03:03 第8 Cyberpunk 2077 [赛博朋克 2077] 149 rmb  (-50%)  
+04:52 第7 Rogue Legacy 2 [盗贼遗产2] 64 rmb  (-20%)  
+07:00 第6 MONSTER HUNTER RISE [怪物猎人崛起] 198 rmb  (-50%)  
+08:36 第5 Sekiro: Shadows Die Twice - GOTY Edition [只狼:影逝:二度-年度版] 268 rmb   
+09:43 第4 The Stanley Parable: Ultra Deluxe [史丹利寓言:超华版] 80 rmb   
 10:56 第3 Dune: Spice Wars [沙丘:香料战争] 139 rmb  
-12:43 第2 ELDEN RING [艾尔登法环] 298 rmb  s
-14:17 第1 Steam Deck $399(64GB)/$529(256GB)/$649(512G8)
-15:42 每周游戏 Dorfromantik [筑梦颂] 32.9 rmb  (-30%)
-
-简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》
-00:00-00:49 片头
-00:50   牛马村学长特约播出
-01:37   第9 Dune: Spice Wars [沙丘:香料战争] 139 rmb  
-02:54   第8 Warhammer 40,000: Chaos Gate - Daemonhunters [战锤40K:混沌之门-恶魔猎人] 126 rmb  
-04:27   第7 Dying Light 2Stay Human [消逝的光芒2：人与仁之战] 239.2 rmb  (-20%)
-05:38   第6 Sekiro™: Shadows Die Twice - GOTY Edition [只狼:影逝二度-年度版] 268 rmb  
-07:00   第5 The Stanley Parable: Ultra Deluxe [史丹利寓言:超华版] 80 rmb  
-08:25   第4 MONSTER HUNTER RISE [怪物猎人崛起] 198 rmb  (-50%)
-09:40   第3 Rogue Legacy 2 [盗贼遗产2] 64 rmb  (20%)
-11:24   第2 ELDEN RING [艾尔登法环] 298 rmb  s 
-然然PS:前有魂1、魂2、魂3、法环剧透，如未通关建议跳到13:19
-13:19   第1 
-15:09   每周游戏 Trek to Yomi [黄泉之路] 79.2 rmb  
+12:43 第2 ELDEN RING [艾尔登法环] 298 rmb  
+14:17 第1 Steam Deck $399(64GB)/$529(256GB)/$649(512G8)  
+15:42 每周游戏 Dorfromantik [筑梦颂] 32.9 rmb  (-30%)  
 
 简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》  
-00:00-00:49 片头    
-00:50   炎头队长特约播出   
+00:00-00:49 片头  
+00:50   牛马村学长特约播出  
+01:37   第9 Dune: Spice Wars [沙丘:香料战争] 139 rmb    
+02:54   第8 Warhammer 40,000: Chaos Gate - Daemonhunters [战锤40K:混沌之门-恶魔猎人] 126 rmb    
+04:27   第7 Dying Light 2Stay Human [消逝的光芒2：人与仁之战] 239.2 rmb  (-20%)  
+05:38   第6 Sekiro™: Shadows Die Twice - GOTY Edition [只狼:影逝二度-年度版] 268 rmb  
+07:00   第5 The Stanley Parable: Ultra Deluxe [史丹利寓言:超华版] 80 rmb  
+08:25   第4 MONSTER HUNTER RISE [怪物猎人崛起] 198 rmb  (-50%)  
+09:40   第3 Rogue Legacy 2 [盗贼遗产2] 64 rmb  (20%)  
+11:24   第2 ELDEN RING [艾尔登法环] 298 rmb  
+然然PS:前有魂1、魂2、魂3、法环剧透，如未通关建议跳到13:19  
+13:19   第1   
+15:09   每周游戏 Trek to Yomi [黄泉之路] 79.2 rmb    
+
+简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》    
+00:00-00:49 片头     
+00:50   炎头队长特约播出    
 01:37   第8 Red Dead Redemption 2 [荒野大镖客:救赎2] 124.5 rmb  (-50%)  
 02:53   第7 MONSTER HUNTER RISE [怪物猎人崛起] 396 rmb    
 04:31   第6 Songs of Conquest [征服之歌] 90 rmb    
@@ -249,17 +249,17 @@
 11:17   第1 Steam Deck $399(64GB)/$529(256GB)/$649(512G8)  
 13:18   每周游戏 Eiyuden Chronicle: Rising [百英雄传:崛起] 66 rmb    
 
-简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》
-00:00-00:49 片头
-00:50   《狂老桶》特约播出
-01:38   第7 Old World [旧世界] 134.1 rmb  (-10%) 暂无官中
-02:59   第6 Titanfall 2 [泰坦陨落2] 25.28 rmb  （-84%）
-04:16   第5 FIFA 22 9.59 rmb  (-84%)
-05:35   第4 ELDEN RING [艾尔登法环] 298 rmb  s 
-07:09   第3 Arma Reforger [武装突袭:重铸者] 100 rmb  
-08:57   第2 Steam Deck $399(64GB)/$529(256GB)/$649(512G8)
-10:22   第1 V Rising [血族崛起] 70 rmb  
-12:37   每周游戏 Little Witch in the Woods [林中小女巫] 45 rmb  (-10%)
+简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》  
+00:00-00:49 片头  
+00:50   《狂老桶》特约播出  
+01:38   第7 Old World [旧世界] 134.1 rmb  (-10%) 暂无官中  
+02:59   第6 Titanfall 2 [泰坦陨落2] 25.28 rmb  （-84%）  
+04:16   第5 FIFA 22 9.59 rmb  (-84%)  
+05:35   第4 ELDEN RING [艾尔登法环] 298 rmb   
+07:09   第3 Arma Reforger [武装突袭:重铸者] 100 rmb   
+08:57   第2 Steam Deck $399(64GB)/$529(256GB)/$649(512G8)  
+10:22   第1 V Rising [血族崛起] 70 rmb   
+12:37   每周游戏 Little Witch in the Woods [林中小女巫] 45 rmb  (-10%)  
 
 ## 5.30 
 简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》  
@@ -276,18 +276,18 @@
 13:59   每周游戏 Horizon Zero Dawn Complete Edition [地平线:零之:曙光完全版] 139.5( 50%) rmb    
 
 ## 6.6
-简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》
-00:00-00:49 片头
-00:50 永久独占 特约播出
-01:43 第8 Warhammer 40,000: Darktide - Imperial Edition [战锤40K:暗潮-帝国版] 288 rmb  
-03:08 第7 Stray [迷失] 85.5 rmb  (-10%)
-04:30 第6 Sniper Elite 5 [狙击精英5] 138 rmb  
-05:52 第5 It Takes Two[双人成行] 99 rmb  (-50%)
-07:14 第4 No Man's Sky [无人深空] 78 rmb  (-50%)
-08:50 第3 Sea of Thieves [盗贼之海] 58 rmb  （-50%）
-09:58 第2 ELDEN RING [艾尔登法环] 298 rmb  
-11:28 第1 V Rising [血族崛起] 70 rmb  
-13:26 每周游戏 Resident Evil 4 Remake [生化危机4重置版]
+简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》  
+00:00-00:49 片头  
+00:50 永久独占 特约播出  
+01:43 第8 Warhammer 40,000: Darktide - Imperial Edition [战锤40K:暗潮-帝国版] 288 rmb    
+03:08 第7 Stray [迷失] 85.5 rmb  (-10%)  
+04:30 第6 Sniper Elite 5 [狙击精英5] 138 rmb    
+05:52 第5 It Takes Two[双人成行] 99 rmb  (-50%)  
+07:14 第4 No Man's Sky [无人深空] 78 rmb  (-50%)  
+08:50 第3 Sea of Thieves [盗贼之海] 58 rmb  （-50%）  
+09:58 第2 ELDEN RING [艾尔登法环] 298 rmb    
+11:28 第1 V Rising [血族崛起] 70 rmb    
+13:26 每周游戏 Resident Evil 4 Remake [生化危机4重置版]  
 
 ## 6.13
 简介：片头BGM：TheFatRat & Anjulie - Let Love Win 片头游戏《SABLE》《GRIS》《Lost Ember》《Haven》  
@@ -317,10 +317,11 @@
 13:53 第1 FINAL FANTASY VII REMAKE INTERGRADE [最终幻想7-重制版] 316.66(-29%)rm  
 每周XGP ( ﾟ∀。) Hollow Knight: Silksong [空洞骑士:丝之歌] 类型:动作官中:V平台:Windows(XGP)发行日期:12个月内  
 
-简介：片头BGM：Breaking Me Down - SOiL 
-00:00-01:07 片头
-01:10  "20cm实心钢管" 特约播出
-02:12 第8 ELDEN RING [艾尔登法环] 298 rmb  
+
+简介：片头BGM：Breaking Me Down - SOiL  
+00:00-01:07 片头  
+01:10  "20cm实心钢管" 特约播出  
+02:12 第8 ELDEN RING [艾尔登法环] 298 rmb    
 
 
 ## 7.18
