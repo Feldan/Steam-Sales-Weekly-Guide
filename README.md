@@ -520,6 +520,19 @@ Thymesia [记忆边境] 80.1(-10%)rmb
 10:27 第1 FIFA 23 ￥248
 12:01 每周游戏 ASTLIBRA Revision [神之天平] ￥72(-10%)
 
+## 2022年10月24日第43期
+片头BGM：AJR - Burn The House Down  
+00:00-00:38 片头  
+00:39 本节目由《新鲜生菜》特约播出特约播出   
+本期前十有六个！  
+01:27 第6 Gotham Knights [哥谭骑士] ¥298
+02:50 第5 UNCHARTED™: Legacy of Thieves Collection [神秘海域：盗贼遗产合集] ¥319
+04:10 第4 Football Manager 2023 [足球经理2023] ¥214.4
+05:09 第3 RimWorld - Biotech [环世界-生物科技] ¥92
+06:26 第2 Persona 5 Royal [女神异闻录5皇家版] ¥329
+07:48 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446(预售)
+09:52 每周游戏 A Plague Tale:Requiem [瘟疫传说:安魂曲] 198rmb   
+
 ## 2022年10月31日第44期   
 片头BGM：AJR - Burn The House Down    
 00:00-00:38 片头    
@@ -533,5 +546,3 @@ Thymesia [记忆边境] 80.1(-10%)rmb
 07:30 第2 Victoria 3 [维多利亚3] ￥218   
 08:58 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446  
 10:40 每周游戏 Bayonetta 3 [猎天使魔女3] $59.99  
-
-
