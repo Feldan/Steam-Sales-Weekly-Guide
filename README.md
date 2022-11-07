@@ -533,6 +533,20 @@ Thymesia [记忆边境] 80.1(-10%)rmb
 07:48 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446(预售)
 09:52 每周游戏 A Plague Tale:Requiem [瘟疫传说:安魂曲] 198rmb   
 
+## 2022年10月31日第44期   
+片头BGM：AJR - Burn The House Down    
+00:00-00:38 片头    
+00:39 本节目由《六翼天使》特约播出特约播出     
+本期前十有六个！ 剧透啦！  
+`简介：本周《现代战争2》《维多利亚3》屠榜，是故前十有六( ﾟ∀。)`   
+01:58 第6 Resident Evil Village [生化危机8] ￥163.5(-25%)    
+03:37 第5 Football Manager 2023 [足球经理2023] ￥214.4(-20%)     
+04:52 第4 Persona 5 Royal [女神异闻录5皇家版] ￥329   
+06:24 第3 Cyberpunk 2077 [赛博朋克2077] ￥149(-50%)   
+07:30 第2 Victoria 3 [维多利亚3] ￥218   
+08:58 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446  
+10:40 每周游戏 Bayonetta 3 [猎天使魔女3] $59.99  
+
 ## 2022年11月7日第45期   
 片头BGM：未知   
 00:00-00:38 片头    
