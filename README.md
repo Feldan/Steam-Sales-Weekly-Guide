@@ -549,8 +549,8 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 10:40 每周游戏 Bayonetta 3 [猎天使魔女3] $59.99  
 
 ## 2022年11月7日第45期   
-片头BGM：未知   
-00:00-00:38 片头    
+片头BGM：AJR - Burn The House Down    
+00:00-00:38 片头     
 00:39 本节目由《小金花》特约播出特约播出      
 本期前十有八个！   
 01:28 第8 The Past Within [如影随行] ¥15.6(-40%)   
@@ -564,5 +564,16 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 12:10 本月前瞻  sonic Frontiers [索尼克：未知边境] ¥229  
 1319 Warhammer 40,000:Darktide [战锤40k：暗潮]   
 
-
+## 2022年11月14日第46期     
+片头BGM：AJR - Burn The House Down    
+00:00-00:38 片头    
+00:39 本节目由《世界冠军》特约播出特约播出        
+本期前十有6个！    
+01:40 第6 Soulstone Survivors [灵魂石幸存者] ￥42  
+02:50 第5 Warhammer 40,000:Darktide [战锤40k：暗潮] ￥188  
+04:16 第4 Football Manager 2023 [足球经理2023] ¥268  
+05:15 第3 sonic Frontiers [索尼克：未知边境] ¥229   
+06:50 第2 Steam Deck $399(64GB)/$529(256GB)/$649(512G8)    
+08:34 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446   
+10:07 每周游戏 God of War Ragnarok [战神:诸神黄昏] $59.99(PS4)/$69.99(PS5)  
 
