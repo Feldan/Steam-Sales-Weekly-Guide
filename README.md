@@ -568,7 +568,7 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 片头BGM：AJR - Burn The House Down    
 00:00-00:38 片头    
 00:39 本节目由《世界冠军》特约播出特约播出        
-本期前十有6个！    
+本期前十有六个！    
 01:40 第6 Soulstone Survivors [灵魂石幸存者] ￥42  
 02:50 第5 Warhammer 40,000:Darktide [战锤40k：暗潮] ￥188  
 04:16 第4 Football Manager 2023 [足球经理2023] ¥268  
@@ -576,4 +576,19 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 06:50 第2 Steam Deck $399(64GB)/$529(256GB)/$649(512G8)    
 08:34 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446   
 10:07 每周游戏 God of War Ragnarok [战神:诸神黄昏] $59.99(PS4)/$69.99(PS5)  
+
+## 2022年11月14日第47期 
+片头BGM：NIGHTWISH - Bye Bye Beautiful  
+片头游戏：《战锤40K暗潮》《哥特舰队：阿玛达2》《战锤40K荷鲁斯之乱》《战争黎明3》《战锤40K星际战士2》  
+00:00-00:43 片头   
+00:52 本节目由《异世界暴白》特约播出特约播出
+本期前十有七个！  
+02:02 第7 MONSTER HUNTER RISE [怪物猎人崛起] ￥121.5(-50%)    
+03:35 第6 Sid Meier's Civilization VI [文明6] ￥19.9(-90%)
+04:51 第5 American Truck Simulator - Texas [美国卡车模拟器-德克萨斯州] ￥98
+05:50 第4 Marvel's Spider-Man: Miles Morales [漫威蜘蛛侠:迈尔斯莫拉雷斯] ￥319
+07:16 第3 Sekiro: Shadows Die Twice - GOTY Edition [只狼:影逝二度-年度版] ￥134(-50%)
+08:40 第2 Warhammer 40,000: Darktide [战锤40K:暗潮] ￥188
+10:37 第1 Call of Duty: Modern Warfare l1 [使命召唤:现代战争2] ￥446
+12:49 每周游戏 Nobody - The Turnaround [大多数] ￥61.2(-10%)(已下架)
 
