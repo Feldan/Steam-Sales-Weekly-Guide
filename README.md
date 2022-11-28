@@ -577,7 +577,7 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 08:34 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446   
 10:07 每周游戏 God of War Ragnarok [战神:诸神黄昏] $59.99(PS4)/$69.99(PS5)  
 
-## 2022年11月14日第47期 
+## 2022年11月21日第47期 
 片头BGM：NIGHTWISH - Bye Bye Beautiful  
 片头游戏：《战锤40K暗潮》《哥特舰队：阿玛达2》《战锤40K荷鲁斯之乱》《战争黎明3》《战锤40K星际战士2》  
 00:00-00:43 片头   
@@ -591,4 +591,20 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 08:40 第2 Warhammer 40,000: Darktide [战锤40K:暗潮] ￥188
 10:37 第1 Call of Duty: Modern Warfare l1 [使命召唤:现代战争2] ￥446
 12:49 每周游戏 Nobody - The Turnaround [大多数] ￥61.2(-10%)(已下架)
+
+## 2022年11月28日第48期 
+片头BGM：NIGHTWISH - Bye Bye Beautiful   
+片头游戏：《战锤40K暗潮》《哥特舰队：阿玛达2》《战锤40K荷鲁斯之乱》《战争黎明3》《战锤40K星际战士2》   
+00:00-00:43 片头    
+00:52 本节目由《獒犬圣经》特约播出特约播出  
+本期前十有七个！   
+01:35 第7 Persona 5 Royal [女神异闻录5皇家版] ¥230.3(-30%)    
+02:50 第6 EA SPORTS FIFA 23 ￥148.8(-40%)  
+03:56 第5 Godiof War [战神] ￥209.25(-25%)  
+04:54 第4 Cyberpunk 2077 [赛博朋克2077] ￥149(-50%)  
+06:22 第3 Warhammer 40,000: Darktide [战锤40K:暗潮] ￥188
+07:55 第2 Red Dead Redemption 2 [ 荒野大镖客:救赎2] ￥82.17(-67%)
+09:11 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446
+11:13 每周游戏 Evil West [暗邪西部] ￥198  
+
 
