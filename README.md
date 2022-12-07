@@ -2,30 +2,30 @@
 00:00~01:10 音药  
 01:10   玫瑰少女特约播出（乳发）  
 本期不够十个游戏  
-02:03   第9 Red Dead Redemption 2【荒野大镖客:救赎2】124.5 rmb    
-02:56   第8 Project Zomboid 【僵尸计划】32.16 rmb    
-04:05   第7 Sekiro™: Shadows Die Twice - GOTY Edition 【只狼:影逝二度-年度版   134 rmb    (小心！！！讲的是老头环！！！)  
-05:52   第6 Battlefield 2042 【战地风云 2042】163.68 rmb     
-07:15   第5 Forza Horizon 5 【极限竞速:地平线5】223.2 rmb    
-08:40   第4 Halo Infinite（Campaign）【光环 无限（战役）】248 rmb    
-10:09   第3 It Takes Two 【双人成行】99 rmb  史地  
-11:14   第2 Five Nights at Freddy's: Security Breach 【玩具熊的午夜后宫:安全漏洞】   
-11:27   第1 Ready or Not 【严阵以待】(私货:好玩！适合喜欢硬核CQB。比r6爽)  
+02:03   第9 Red Dead Redemption 2[荒野大镖客:救赎2]124.5 rmb    
+02:56   第8 Project Zomboid [僵尸计划]32.16 rmb    
+04:05   第7 Sekiro™: Shadows Die Twice - GOTY Edition [只狼:影逝二度-年度版   134 rmb    (小心！！！讲的是老头环！！！)  
+05:52   第6 Battlefield 2042 [战地风云 2042]163.68 rmb     
+07:15   第5 Forza Horizon 5 [极限竞速:地平线5]223.2 rmb    
+08:40   第4 Halo Infinite（Campaign）[光环 无限（战役）]248 rmb    
+10:09   第3 It Takes Two [双人成行]99 rmb  史地  
+11:14   第2 Five Nights at Freddy's: Security Breach [玩具熊的午夜后宫:安全漏洞]   
+11:27   第1 Ready or Not [严阵以待](私货:好玩！适合喜欢硬核CQB。比r6爽)  
 13:05   每周游戏  
-13:12   Cyberpunk 2077 【赛博朋克 2077】149 rmb    
+13:12   Cyberpunk 2077 [赛博朋克 2077]149 rmb    
 14:50   年度片尾。来自@术爸Treedad   混剪单投:ac32792503   
 
 
 我要老头环！！！  
 00:00-00:45   前摇 
-00:45   Forza Horizon 5 【极限竞速:地平线5】 223.20 rmb    
-02:00   Age of Empires 【帝国时代4】 223.2 rmb    
-03:14   Back 4 Blood 【喋血复仇】 178.8 rmb     
-04:33   Aliens: Fireteam Elite 【异性:火力小队】 110.5 rmb    
-05:40   Curious Expedition 2 【奇妙探险队2】 49 rmb    
-06:35   Timberborn 【木架】 64 rmb    
-07:44   Chicory: A Colorful Tale 【神笔狗良】56 rmb    
-08:47   Dorfromantik 【多罗曼蒂克】33.3 rmb    
+00:45   Forza Horizon 5 [极限竞速:地平线5] 223.20 rmb    
+02:00   Age of Empires [帝国时代4] 223.2 rmb    
+03:14   Back 4 Blood [喋血复仇] 178.8 rmb     
+04:33   Aliens: Fireteam Elite [异性:火力小队] 110.5 rmb    
+05:40   Curious Expedition 2 [奇妙探险队2] 49 rmb    
+06:35   Timberborn [木架] 64 rmb    
+07:44   Chicory: A Colorful Tale [神笔狗良]56 rmb    
+08:47   Dorfromantik [多罗曼蒂克]33.3 rmb    
 09:38   绅士年终复盘（省流:绅士在2022年讲更多骚话，acer们多给香蕉！元旦快乐。你在，我在，ac在，爱也一直在。）  
 10:22   混剪结尾。  
 
@@ -33,91 +33,91 @@
 00:00-01:05 片头  
 01:05   五菱宏光S特约播出  
 本期八个游戏  
-01:51   第八 Dead Cells: The Queen and the Sea 【死亡细胞:王后与海】 22 rmb    
-03:23   第七 CS:GO - Operation Riptide 【反恐精英-激流大行动】 96 rmb    
-04:29   第六 ELDEN RING 【艾尔登法环】 298 rmb    
-05:29   第五 Five Nights at Freddy's: Security Breach 【玩具熊的午夜后宫:安全漏洞】 116 rmb    
-06:47   第四 Project Zomboid 【僵尸毁灭计划】 70 rmb    
-08:17   第三 MONSTER HUNTER RISE  【怪物猎人崛起】 396 rmb    
-09:26   第二 It Takes Two 【双人成行】 99 rmb    
-10:55   第一 Ready or Not 【严阵以待】 125 rmb    
+01:51   第八 Dead Cells: The Queen and the Sea [死亡细胞:王后与海] 22 rmb    
+03:23   第七 CS:GO - Operation Riptide [反恐精英-激流大行动] 96 rmb    
+04:29   第六 ELDEN RING [艾尔登法环] 298 rmb    
+05:29   第五 Five Nights at Freddy's: Security Breach [玩具熊的午夜后宫:安全漏洞] 116 rmb    
+06:47   第四 Project Zomboid [僵尸毁灭计划] 70 rmb    
+08:17   第三 MONSTER HUNTER RISE  [怪物猎人崛起] 396 rmb    
+09:26   第二 It Takes Two [双人成行] 99 rmb    
+10:55   第一 Ready or Not [严阵以待] 125 rmb    
 12:28   每周游戏  
-12:30   Hollow Knight:Silksong 【空洞骑士:丝之歌】 未发售  
+12:30   Hollow Knight:Silksong [空洞骑士:丝之歌] 未发售  
 
 
 00:00-01:05 片头   
 01:05   精红辣椒特约播出  
 本期七个游戏  
-02:23   第七 Five Nights at Freddy's: Security Breach 【玩具熊的午夜后宫:安全漏洞】 116 rmb     
-03:12   第六 Dying Light 2Stay Human 【消逝的光芒2:人与仁之战】 299 rmb  （预售）  
-04:31   第五 Project Zomboid 【僵尸毁灭计划】 70 rmb    
-06:55   第四 ELDEN RING 【艾尔登法环】 298 rmb  （预售）  
-08:26   第三 Ready or Not 【严阵以待】 125 rmb    
-10:09   第二 MONSTER HUNTER RISE  【怪物猎人崛起】 396 rmb    
-11:39   第一 God of War 【战神】 279 rmb    
-13:05   每周游戏 Titanfall 2 + Northstar 【泰坦陨落2+北极星】158 rmb    
+02:23   第七 Five Nights at Freddy's: Security Breach [玩具熊的午夜后宫:安全漏洞] 116 rmb     
+03:12   第六 Dying Light 2Stay Human [消逝的光芒2:人与仁之战] 299 rmb  （预售）  
+04:31   第五 Project Zomboid [僵尸毁灭计划] 70 rmb    
+06:55   第四 ELDEN RING [艾尔登法环] 298 rmb  （预售）  
+08:26   第三 Ready or Not [严阵以待] 125 rmb    
+10:09   第二 MONSTER HUNTER RISE  [怪物猎人崛起] 396 rmb    
+11:39   第一 God of War [战神] 279 rmb    
+13:05   每周游戏 Titanfall 2 + Northstar [泰坦陨落2+北极星]158 rmb    
 
 新年好啊  
 00:00-01:05 片头  
 01:05   爱稀饭的神特约播出（上海图书馆yyds）  
 本期九个游戏  
-02:02   第九 It Takes Two 【双人成行】99 rmb    
-03:22   第八 Project Zomboid 【僵尸毁灭计划】 70 rmb    
-04:14   第七 Lost Ark Platinum Founder's Pack 【失落的方舟白金创始人包】99.99 rmb  （锁区预售）  
-05:31   第六 Total War: WARHAMMER III 【全面战争:战锤3】 298 rmb    
-07:17   第五 Ready or Not 【严阵以待】 125 rmb    
-08:20   第四 ELDEN RING 【艾尔登法环】 298 rmb  （预售）  
-09:57   第三 Dying Light 2Stay Human 【消逝的光芒2:人与仁之战】 299 rmb  （预售）  
-11:36   第二 MONSTER HUNTER RISE  【怪物猎人崛起】 396 rmb    
-12:34   第一 God of War 【战神】 279 rmb    
-14:05   每周游戏 Hidden Deep 【幽闭深渊】 72 rmb    
+02:02   第九 It Takes Two [双人成行]99 rmb    
+03:22   第八 Project Zomboid [僵尸毁灭计划] 70 rmb    
+04:14   第七 Lost Ark Platinum Founder's Pack [失落的方舟白金创始人包]99.99 rmb  （锁区预售）  
+05:31   第六 Total War: WARHAMMER III [全面战争:战锤3] 298 rmb    
+07:17   第五 Ready or Not [严阵以待] 125 rmb    
+08:20   第四 ELDEN RING [艾尔登法环] 298 rmb  （预售）  
+09:57   第三 Dying Light 2Stay Human [消逝的光芒2:人与仁之战] 299 rmb  （预售）  
+11:36   第二 MONSTER HUNTER RISE  [怪物猎人崛起] 396 rmb    
+12:34   第一 God of War [战神] 279 rmb    
+14:05   每周游戏 Hidden Deep [幽闭深渊] 72 rmb    
 
 00:00-00:55 片头
 00:55 二次元殡仪馆特约播出
 本期6个游戏
-02:01   第6 Dread Hunger 【恐惧饥饿】 90 rmb  
-03:18   第5 Destiny 2: The Witch Queen Deluxe Edition【命运2:邪姬魅影】319 rmb  
-04:36   第4 Total War: WARHAMMER III 【全面战争:战锤3】 298 rmb  
-05:53   第3 ELDEN RING 【老头环】 298 rmb  （预售）
-07:19   第2 Lost Ark Platinum Founder's Pack 【失落的方舟白金创始人包】99.99 rmb  （锁区）
-08:50   第1 Dying Light 2Stay Human 【消逝的光芒2:人与仁之战】 299 rmb  
-11:20   每周游戏 Diplomacy is Not an Option 【要战便战】 72 rmb  
+02:01   第6 Dread Hunger [恐惧饥饿] 90 rmb  
+03:18   第5 Destiny 2: The Witch Queen Deluxe Edition[命运2:邪姬魅影]319 rmb  
+04:36   第4 Total War: WARHAMMER III [全面战争:战锤3] 298 rmb  
+05:53   第3 ELDEN RING [老头环] 298 rmb  （预售）
+07:19   第2 Lost Ark Platinum Founder's Pack [失落的方舟白金创始人包]99.99 rmb  （锁区）
+08:50   第1 Dying Light 2Stay Human [消逝的光芒2:人与仁之战] 299 rmb  
+11:20   每周游戏 Diplomacy is Not an Option [要战便战] 72 rmb  
 
 00:00-00:57 片头
 00:57 冰川小索特约播出
 本期7个游戏
-01:46   第7 THE KING OF FIGHTERS XV 【拳皇15】 324 rmb  
-03:08   第6 Destiny 2: The Witch Queen Deluxe Edition【命运2:邪姬魅影】319 rmb  
-04:45   第5 Cyberpunk 2077 【赛博朋克 2077】 149 rmb  
-06:30   第4 Lost Ark Platinum Founder's Pack 【失落的方舟征服者入门包】64.99 rmb  （锁区）
-08:07   第3 Dying Light 2Stay Human 【消逝的光芒2:人与仁之战】 299 rmb  
-09:57   第2 ELDEN RING 【艾尔登法环】 298 rmb  （预售）
-11:24   第1 Total War: WARHAMMER III 【全面战争:战锤3】 298 rmb  
-13:21   每周游戏 Edge Of The Abyss Awaken 【临时觉醒】 67 rmb  
+01:46   第7 THE KING OF FIGHTERS XV [拳皇15] 324 rmb  
+03:08   第6 Destiny 2: The Witch Queen Deluxe Edition[命运2:邪姬魅影]319 rmb  
+04:45   第5 Cyberpunk 2077 [赛博朋克 2077] 149 rmb  
+06:30   第4 Lost Ark Platinum Founder's Pack [失落的方舟征服者入门包]64.99 rmb  （锁区）
+08:07   第3 Dying Light 2Stay Human [消逝的光芒2:人与仁之战] 299 rmb  
+09:57   第2 ELDEN RING [艾尔登法环] 298 rmb  （预售）
+11:24   第1 Total War: WARHAMMER III [全面战争:战锤3] 298 rmb  
+13:21   每周游戏 Edge Of The Abyss Awaken [临时觉醒] 67 rmb  
 
 00:00-00:57 片头
 00:57 《神坛》特约播出
 本期6个游戏  没有每周游戏
-02:07   第6 Cyberpunk 2077 【赛博朋克 2077】 149 rmb  
-03:02   第5 Total War: WARHAMMER III 【全面战争:战锤3】 298 rmb  
-04:30   第4 Dying Light 2Stay Human 【消逝的光芒2:人与仁之战】 299 rmb  
-05:36   第3 Steam Deck 【steam 掌机 Linux系统】 站内测评 ac33603071 ac31443590 ac30690137
-07:31   第2 Destiny 2: The Witch Queen Deluxe Edition【命运2:邪姬魅影】319 rmb  
-09:13   第1 ELDEN RING 【艾尔登法环】 298 rmb  
+02:07   第6 Cyberpunk 2077 [赛博朋克 2077] 149 rmb  
+03:02   第5 Total War: WARHAMMER III [全面战争:战锤3] 298 rmb  
+04:30   第4 Dying Light 2Stay Human [消逝的光芒2:人与仁之战] 299 rmb  
+05:36   第3 Steam Deck [steam 掌机 Linux系统] 站内测评 ac33603071 ac31443590 ac30690137
+07:31   第2 Destiny 2: The Witch Queen Deluxe Edition[命运2:邪姬魅影]319 rmb  
+09:13   第1 ELDEN RING [艾尔登法环] 298 rmb  
 
 00:00-00:57 片头
 00:57   埃尔登卷王特约播出
 01:13   关于前十为什么没有十个
 本期7个游戏  
-02:29   第7 Steam Deck 【steam 掌机 Linux系统】 站内测评 ac33603071 ac31443590 ac30690137
-03:50   第6 Total War: WARHAMMER III 【全面战争:战锤3】 298 rmb  
-05:22   第5 Destiny 2: The Witch Queen Deluxe Edition【命运2:邪姬魅影】159 rmb  
-06:56   第4 Lost Ark Platinum Founder's Pack 【失落的方舟征服者入门包】64.99 rmb  （锁区）
-08:02   第3 Dying Light 2Stay Human 【消逝的光芒2:人与仁之战】 299 rmb  
-09:09   第2 Risk of Rain 2: Survivors of the Void 【雨中冒险2:虚空幸存者】
-10:41   第1 ELDEN RING 【艾尔登法环】 298 rmb  
-12:33   本月前瞻 ANNO:Mutationem 【纪元: 变异】
-13:37   Ghostwire:Tokyo 【幽灵线:东京】
+02:29   第7 Steam Deck [steam 掌机 Linux系统] 站内测评 ac33603071 ac31443590 ac30690137
+03:50   第6 Total War: WARHAMMER III [全面战争:战锤3] 298 rmb  
+05:22   第5 Destiny 2: The Witch Queen Deluxe Edition[命运2:邪姬魅影]159 rmb  
+06:56   第4 Lost Ark Platinum Founder's Pack [失落的方舟征服者入门包]64.99 rmb  （锁区）
+08:02   第3 Dying Light 2Stay Human [消逝的光芒2:人与仁之战] 299 rmb  
+09:09   第2 Risk of Rain 2: Survivors of the Void [雨中冒险2:虚空幸存者]
+10:41   第1 ELDEN RING [艾尔登法环] 298 rmb  
+12:33   本月前瞻 ANNO:Mutationem [纪元: 变异]
+13:37   Ghostwire:Tokyo [幽灵线:东京]
 木然:
 >关于steam销量周榜前十没有十个原因:
 >- 豪华版和普通版算是不同的游戏，所以我们只聊一次
@@ -137,63 +137,63 @@
 00:00-00:57 片头
 00:57   求神特约播出    
 本期7个游戏  
-02:11   第7 WWE 2k22 【世界摔角娱乐2K22】 199 rmb  
-03:44   第6 Dying Light 2Stay Human 【消逝的光芒2:人与仁之战】 299 rmb  
-05:06   第5 Red Dead Redemption 2【荒“野”大“镖”客:救赎2】124.5 rmb  
-06:33   第4 Risk of Rain 2: Survivors of the Void 【雨中冒险2:虚空幸存者】DLC 50  rmb  
-07:59   第3 Core Keeper 【地心护核者】 38.7 rmb  
-09:04   第2 Steam Deck 【steam 掌机 Linux系统】 站内测评 ac33603071 ac31443590 ac30690137
-10:29   第1 ELDEN RING 【艾尔登法环】 298 rmb  
-12:23   每周游戏 Have a Nice Death 【祝你好“死”】 70 rmb   
+02:11   第7 WWE 2k22 [世界摔角娱乐2K22] 199 rmb  
+03:44   第6 Dying Light 2Stay Human [消逝的光芒2:人与仁之战] 299 rmb  
+05:06   第5 Red Dead Redemption 2[荒“野”大“镖”客:救赎2]124.5 rmb  
+06:33   第4 Risk of Rain 2: Survivors of the Void [雨中冒险2:虚空幸存者]DLC 50  rmb  
+07:59   第3 Core Keeper [地心护核者] 38.7 rmb  
+09:04   第2 Steam Deck [steam 掌机 Linux系统] 站内测评 ac33603071 ac31443590 ac30690137
+10:29   第1 ELDEN RING [艾尔登法环] 298 rmb  
+12:23   每周游戏 Have a Nice Death [祝你好“死”] 70 rmb   
 
 00:00-00:57 片头
 00:57   并刀刀特约播出
-02:06   第7 WWE 2k22 【世界摔角娱乐2K22】 199 rmb  
-04:09   第6 Red Dead Redemption 2【荒野大镖客:救赎2】 124.5 rmb  
-04:46   第5 Core Keeper 【地心护核者】 43 rmb  
-06:28   第4 MONSTER HUNTER RISE 【怪物猎人崛起】 261.36 rmb  
-07:53   第3 It Takes Two 【双人成行】 79.2 rmb  史地
-09:09   第2 Steam Deck 【steam 掌机 Linux系统】 站内测评 ac33603071 ac31443590 ac30690137
-10:20   第1 ELDEN RING 【艾尔登法环】 298 rmb  
-12:34   每周游戏  TUNIC 【童话小狐狸】 90 rmb  
+02:06   第7 WWE 2k22 [世界摔角娱乐2K22] 199 rmb  
+04:09   第6 Red Dead Redemption 2[荒野大镖客:救赎2] 124.5 rmb  
+04:46   第5 Core Keeper [地心护核者] 43 rmb  
+06:28   第4 MONSTER HUNTER RISE [怪物猎人崛起] 261.36 rmb  
+07:53   第3 It Takes Two [双人成行] 79.2 rmb  史地
+09:09   第2 Steam Deck [steam 掌机 Linux系统] 站内测评 ac33603071 ac31443590 ac30690137
+10:20   第1 ELDEN RING [艾尔登法环] 298 rmb  
+12:34   每周游戏  TUNIC [童话小狐狸] 90 rmb  
  
 00:00-01:05 片头
 01:09   恶魔果实特约播出
 本期有前8！
-02:46   第8 The Planet Crafter 【星球工匠】 61.2 rmb  
-04:12   第7 LEGO Star Wars: The Skywalker Saga 【乐高星球大战:天行者传奇】 248 rmb  （预售）
-05:33   第6 Red Dead Redemption 2【荒“野”大“镖”客:救赎2】124.5 rmb  
-06:58   第5 Core Keeper 【地心护核者】 43 rmb  
-08:05   第4 Ghostwire:Tokyo 【幽灵线:东京】 194.99 rmb  
-10:02   第3 It Takes Two 【双人成行】 79.2 rmb  
-11:46   第2 Steam Deck 【steam 掌机】 站内测评 ac33603071 ac31443590 ac30690137
-13:17   第1 ELDEN RING 【艾尔登法环】 298 rmb  
-14:48   每周游戏 tERRORbane 【差错克星】（文案：小刘）
+02:46   第8 The Planet Crafter [星球工匠] 61.2 rmb  
+04:12   第7 LEGO Star Wars: The Skywalker Saga [乐高星球大战:天行者传奇] 248 rmb  （预售）
+05:33   第6 Red Dead Redemption 2[荒“野”大“镖”客:救赎2]124.5 rmb  
+06:58   第5 Core Keeper [地心护核者] 43 rmb  
+08:05   第4 Ghostwire:Tokyo [幽灵线:东京] 194.99 rmb  
+10:02   第3 It Takes Two [双人成行] 79.2 rmb  
+11:46   第2 Steam Deck [steam 掌机] 站内测评 ac33603071 ac31443590 ac30690137
+13:17   第1 ELDEN RING [艾尔登法环] 298 rmb  
+14:48   每周游戏 tERRORbane [差错克星]（文案：小刘）
 
 00:00-01:05 片头
 01:09   最佳动作指导特约播出
 本期有前8！
-01:51   第8 Midnight Ghost Hunt 【午夜猎魂】 70 rmb  
-03:27   第7 DEATH STRANDING DIRECTOR'S CUT【死亡搁浅导演剪辑版】 48 rmb  [升级版]/198完整版
-04:45   第6 Disco Elysium - The Final Cut 【极乐迪斯科-最终剪辑版】 40.6 rmb  
-05:58   第5 Ghostwire:Tokyo 【幽灵线:东京】 194.99 rmb  
-07:30   第4 The Planet Crafter 【星球工匠】 61.2 rmb  
-09:24   第3 LEGO Star Wars: The Skywalker Saga 【乐高星球大战:天行者传奇】 248 rmb  （预售）
-10:33   第2 Steam Deck 【steam 掌机】 
-11:54   第1 ELDEN RING 【艾尔登法环】 298 rmb  
-14:19   每周游戏 Weird West【诡野西部】 148 rmb  
+01:51   第8 Midnight Ghost Hunt [午夜猎魂] 70 rmb  
+03:27   第7 DEATH STRANDING DIRECTOR'S CUT[死亡搁浅导演剪辑版] 48 rmb  [升级版]/198完整版
+04:45   第6 Disco Elysium - The Final Cut [极乐迪斯科-最终剪辑版] 40.6 rmb  
+05:58   第5 Ghostwire:Tokyo [幽灵线:东京] 194.99 rmb  
+07:30   第4 The Planet Crafter [星球工匠] 61.2 rmb  
+09:24   第3 LEGO Star Wars: The Skywalker Saga [乐高星球大战:天行者传奇] 248 rmb  （预售）
+10:33   第2 Steam Deck [steam 掌机] 
+11:54   第1 ELDEN RING [艾尔登法环] 298 rmb  
+14:19   每周游戏 Weird West[诡野西部] 148 rmb  
 
 00:00-01:05 片头
 01:09   渣男小智特约播出
 本期有前7
-01:58   第7 Days Gone 【往日不再】139.5 rmb  
-03:17   第6 Call of Duty: Black Ops III 【使命召唤：黑色行动3】111.54 rmb  
-04:35   第5 Horizon Zero Dawn Complete Edition 【地平线：零之曙光完全版】139.5 rmb  
-05:58   第4 Sea of Thieves 【盗贼之海】58 rmb  
-07:16   第3 ELDEN RING 【老头环】 298 rmb  (有剧透，可跳至09:20)
-09:19   第2 Steam Deck 【steam 掌机】 
-10:41   第1 LEGO Star Wars: The Skywalker Saga 【乐高星球大战:天行者传奇】 248 rmb  
-12:41   每周游戏 Halo: The Master Chief Collection 【光环：士官长合集】 46.4 rmb  
+01:58   第7 Days Gone [往日不再]139.5 rmb  
+03:17   第6 Call of Duty: Black Ops III [使命召唤：黑色行动3]111.54 rmb  
+04:35   第5 Horizon Zero Dawn Complete Edition [地平线：零之曙光完全版]139.5 rmb  
+05:58   第4 Sea of Thieves [盗贼之海]58 rmb  
+07:16   第3 ELDEN RING [老头环] 298 rmb  (有剧透，可跳至09:20)
+09:19   第2 Steam Deck [steam 掌机] 
+10:41   第1 LEGO Star Wars: The Skywalker Saga [乐高星球大战:天行者传奇] 248 rmb  
+12:41   每周游戏 Halo: The Master Chief Collection [光环：士官长合集] 46.4 rmb  
 
 00:00-01:05 片头
 01:09   益丰洋行特约播出
@@ -403,7 +403,7 @@ Evolve Stage 2 [进化 第二阶段] 售价:N/A 评价:64%(褒贬不一)
 00:00-00:58 片头     
 00:59 本节目由《小环书》特约播出特约播出    
 02:07 第9 NARAKA: BLADEPOINT [永劫无间] 49 rmb  (-50%)  
-03:29 第8 CS:GO Prime Status Upgrade 【反恐精英优先状态升级】 96 rmb    
+03:29 第8 CS:GO Prime Status Upgrade [反恐精英优先状态升级] 96 rmb    
 05:00 第7 Ready or Not [严阵以待] 125 rmb    
 06:30 第6 ELDEN RING [艾尔登法环] 298 rmb     
 07:33 第5 FIFA23 248 rmb  (预售)  
@@ -493,7 +493,7 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 16:19 Gotham Kninghts [哥谭骑士] 298 rmb     
 
 ## 2022年10月10日第41期
-片头BGM：AJR - Burn The House Down】
+片头BGM：AJR - Burn The House Down]
 00:00-00:38 片头  
 00:46 本节目由《人类画师》特约播出特约播出  
 本期前十有七个！  
@@ -607,4 +607,17 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 09:11 第1 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446
 11:13 每周游戏 Evil West [暗邪西部] ￥198  
 
-
+## 2022年12月5日第49期
+片头BGM：NIGHTWISH - Bye Bye Beautiful   
+片头游戏：《战锤40K暗潮》《哥特舰队：阿玛达2》《战锤40K荷鲁斯之乱》《战争黎明3》《战锤40K星际战士2》   
+00:00-00:43 片头    
+00:44 本节目由《黛玉宇宙》特约播出特约播出  
+本期前十有六个！  
+01:58 第6 Battlefield 2042 [战地风云 2042] ￥81.84(-67%)   
+03:12 第5 Marvel's Midnight Suns [漫威午夜之子] ￥199
+04:34 第4 Need for Speed Unbound [极品飞车:不羁] ￥248
+05:50 第3 The Callisto Protocol [木卫四协议] ￥298
+08:14 第2 Call of Duty: Modern Warfare II [使命召唤:现代战争2] ￥446
+09:30 第1 Warhammer 40,000: Darktide [战锤40K:暗潮] ￥188
+11:12 本月前瞻  High On Life [极乐人生] 售价:N/A 类型:射击 无官中
+12:39 CRISIS CORE -FINAL FANTASY VI- REUNION [最终幻想7:核心危机重聚] 售价:￥298 类型:角色扮演 有官中 发行日期:2022.12.14
