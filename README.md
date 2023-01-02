@@ -637,7 +637,7 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 10:24 第2 Call of Duty: Modern Warfare II [使命召唤：现代战争2] ￥446
 12:22 第1 Dwarf Fortress [矮人要塞] ￥108
 14:13 每周游戏 Dead Space [死亡：空间] ￥248(预售)
-=======
+
 ## 2022年12月19日第51期
 片头BGM：NIGHTWISH - Bye Bye Beautiful   
 片头游戏：《战锤40K暗潮》《哥特舰队：阿玛达2》《战锤40K荷鲁斯之乱》《战争黎明3》《战锤40K星际战士2》   
@@ -646,4 +646,24 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 本期前十有七个！ 
 01:33 第7 Warhammer 40,000: Darktide [战锤40K:暗潮] ￥188 
 02:54 第6 
+
+## 2023年1月2日第1期 年度前瞻篇  
+片头BGM: Strung Out Johnny
+片头游戏:以下都是
+00:00-00:41 片头     
+00:41 本节目由《体温小助手》特约播出特约播出   
+本期前十有八个！   
+01:55 苏联朋克 Atomic Heart [原子之心] ￥239  
+03:37 二战策略 Company of Heroes 3 [英雄连3] ￥299
+05:03 裆心有雷 The Day Before [浩劫前夕] ￥N/A  
+07:25 三国仁王 Wo Long: Fallen Dynasty [卧龙：苍天陨落] ￥298  
+09:13 绝地只狼 STAR WARS JEDI: SURVIVOR [星球大战绝地:幸存者] ￥298  
+10:35 惨遭重置 Resident Evil4 [生化危机4重制版] ￥348  
+12:05 咕咕咕咕 Hollow Knight: Silksong [空洞骑士:丝之歌] ￥N/A  
+13:44 硬核机甲 ARMORED CORE VI FIRES OF RUBICON [装甲核心6:境界天火] ￥N/A
+15:29 天上第一 The Legend of Zelda: Tears of the Kingdom [塞尔达传说:王国之泪] $59.99  
+17:30 木然有话说
+
+
+
 
