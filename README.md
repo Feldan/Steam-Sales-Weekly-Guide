@@ -621,3 +621,19 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 09:30 第1 Warhammer 40,000: Darktide [战锤40K:暗潮] ￥188
 11:12 本月前瞻  High On Life [极乐人生] 售价:N/A 类型:射击 无官中
 12:39 CRISIS CORE -FINAL FANTASY VI- REUNION [最终幻想7:核心危机重聚] 售价:￥298 类型:角色扮演 有官中 发行日期:2022.12.14
+
+## 2022年12月12日第50期
+片头BGM：NIGHTWISH - Bye Bye Beautiful   
+片头游戏：《战锤40K暗潮》《哥特舰队：阿玛达2》《战锤40K荷鲁斯之乱》《战争黎明3》《战锤40K星际战士2》   
+00:00-00:43 片头     
+00:44 本节目由《水母fun》特约播出特约播出   
+本期前十有八个！   
+01:34 第8 Cyberpunk 2077 [赛博朋克2077] ￥149(-50%)    
+02:48 第7 Red Dead Redemption 2 [荒野大镖客：救赎2] ￥82.17(-67%)  
+03:56 第6 EA SPORTS FIFA 23 ￥99.2(-60%)  
+05:10 第5 Assassin's Creed Valhalla [刺客信条：英灵殿] ￥98.34(-67%)  
+06:58 第4 IXION [伊克西翁] ￥116.1(-10%)  
+08:33 第3 Warhammer 40,000: Darktide [战锤40K：暗潮] ￥188
+10:24 第2 Call of Duty: Modern Warfare II [使命召唤：现代战争2] ￥446
+12:22 第1 Dwarf Fortress [矮人要塞] ￥108
+14:13 每周游戏 Dead Space [死亡：空间] ￥248(预售)
