@@ -690,11 +690,42 @@ Thymesia [记忆边境] 80.1(-10%) rmb
 05:06 第五 ONE PIECE ODYSSEY [海贼王:时光旅诗] ￥298  
 07:03 第四 ELDENRING [艾尔登法环] ￥298  
 07:49 第三 Raft [木筏] ￥45.56(-33%)  
-09:11 第二 08:15 第二 Call of Duty: Modern Warfare II | Warzone 2.0 [使命召唤:现代战争2|战争地带2.0] ￥446  
+09:11 第二 Call of Duty: Modern Warfare II | Warzone 2.0 [使命召唤:现代战争2|战争地带2.0] ￥446  
 10:49 第一 Hogwarts Legacy [霍格沃茨之遗] ￥298  
 12:42 每周游戏 觅长生 ￥43.2(-10%)  
 
+## 2023年1月23日第4期
+片头BGM: Strung Out Johnny  
+片头游戏:《原子之心》、《英雄连3》、《浩劫前夕》、《卧龙：苍天陨落》、《星球大战绝地:幸存者》、《生化危机4重制版》、《空洞骑士:丝之歌》、《装甲核心6:境界天火》、《塞尔达传说:王国之泪》  
+00:00-00:41 片头  
+00:41 本节目由《银白联赛》特约播出特约播出  
+本期前十有九个！   
+01:55 第九 Tom Clancy's The Division 2 [全境封锁2] HK$65.4(-40%)(锁区)    
+03:29 第八 Forza Horizon 5 [极限竞速:地平线5] ￥161.2(-35%)  
+04:50 第七 Persona 3 Portable [女神异闻录3携带版) ￥125评价:73%  
+05:53 第六 Grand Theft Auto: San Andreas - The Definitive Edition [给他爱:圣安地列斯-最终版] ￥124.5(-50%)  
+06:53 第五 ELDENRING [艾尔登法环] ￥298    
+07:41 第四 Call of Duty: Modern Warfare II | Warzone 2.0 [使命召唤:现代战争2|战争地带2.0] ￥446   
+09:15 第三 Red Dead Redemption 2 [荒野大镖客:救赎2] ￥82.17(-67%)  
+10:48 第二 Cyberpunk 2077 [赛博朋克 2077] ￥149(-60%)  
+12:11 第一 Hogwarts Legacy [霍格沃茨之遗] ￥298(预售)  
 
+## 2023年2月6日第6期
+片头BGM: TheFatRat & NEFFEX - Back One Day (Outro Song)
+片头游戏:《坎巴拉太空计划2》《戴森球计划》《火星孤征》《家园3》《星空》
+00:00-00:46 片头  
+00:50 本节目由《流浪气球》特约播出特约播出  
+本期前十有7个！   
+01:53 第七 Dying Light 2 Stay Human [消逝的光芒2:人与仁之战] ￥99(-50%)  
+03:10 第六 Call of Duty: Modern Warfare II | Warzone 2.0 [使命召唤:现代战争2|战争地带2.0] ￥446  
+03:28 第五 Project Zomboid [僵尸毁灭工程] ￥46.9(-33%)  
+04:56 第四 Hi-FiRUSH [节奏特攻] ￥125  
+06:35 第三 Undisputed [终极斗士] ￥148  
+08:08 第二 Dead Space[死亡空间] ￥248
+10:07 第一 Hogwarts Legacy [霍格沃茨之遗] ￥298(预售)   
+12:27 每周游戏 WILD HEARTS [狂野之心] ￥298
+13:51 Sons Of The Forest [森林之子]  
+15:18 Kerbal Space Program 2 [坎巴拉太空计划2]
 
 
 
