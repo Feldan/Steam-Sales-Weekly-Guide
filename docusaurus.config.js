@@ -70,17 +70,17 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
           {
             type: 'doc',
-            docId: 'Steam销量周榜漫游指南',
+            docId: 'intro',
             position: 'left',
-            label: 'Steam销量周榜漫游指南',
+            label: 'Tutorial',
+          },
+          {
+            type: 'doc',
+            docId: '《Steam销量周榜漫游指北》介绍',
+            position: 'left',
+            label: 'Steam销量周榜漫游指北',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
